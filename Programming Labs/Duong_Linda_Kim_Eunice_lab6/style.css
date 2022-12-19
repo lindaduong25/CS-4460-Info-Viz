@@ -1,0 +1,53 @@
+.x-axis-texts {
+    font-size: 2px;
+    text-anchor: end;
+    fill: black;
+}
+
+.total-victims-texts {
+    text-anchor: middle;
+    font-size: 5px;
+    fill: black;
+}
+
+#Fatalities {
+    translate: 700px 20px;
+    font-size: x-small;
+    font-weight: bold;
+}
+
+#Injuries {
+    translate: 700px 30px;
+    font-size: x-small;
+    font-weight: bold;
+}
+
+.data-attributes {
+    translate: 700px 50px;
+    font-size: x-small;
+    font-weight: bold;
+    width: 60px;
+}
+
+.populate-text {
+    translate: 700px 80px;
+    font-size: x-small;
+    font-weight: bold;
+    width: 60px;
+}
+
+.attr-text {
+    translate: 700px 80px;
+    font-size: x-small;
+    font-weight: bold;
+    width: 60px;
+}
+
+.g-bars {
+    stroke: none;
+}
+
+.g-bars:hover {
+    stroke: black;
+    stroke-width: 0.3px;
+}
