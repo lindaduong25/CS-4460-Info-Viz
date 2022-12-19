@@ -1,0 +1,61 @@
+body {
+    font-family: "Times New Roman";
+}
+
+#main {
+    margin: 10px 20px;
+}
+
+text.label {
+    text-anchor: middle;
+    font-size: 11px;
+    fill: #555;
+    font-family: sans-serif;
+}
+
+.axis text {
+    fill: #555;
+}
+
+.axis line,
+.axis path {
+    stroke: #555;
+}
+
+text.title {
+    text-anchor: middle;
+    font-size: 15px;
+    fill: #333;
+}
+
+#main svg circle{
+    fill: #06229c;
+    opacity: 0.6;
+}
+
+
+.group-container {
+    text-anchor: middle;
+}
+
+.circle-text {
+    font-size: 12px;
+    font-weight: bold;
+    font-family: "Open Sans";
+    transform: translateY(-4px);
+    opacity: 0;
+}
+
+.circle-text:hover {
+    opacity: 1;
+}
+
+.legend-title {
+    font-size: 15px;
+    font-family: "Times New Roman";
+}
+
+.legend-text {
+    font-size: 15px;
+    font-family: "Times New Roman";
+}

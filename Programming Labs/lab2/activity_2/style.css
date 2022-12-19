@@ -1,0 +1,26 @@
+body {
+    font-family: "Open Sans";
+}
+
+#main {
+    margin: 10px 20px;
+}
+
+.grass {
+    color: green;
+    font-size: large;
+}
+
+.fire {
+    color: red;
+    font-size: large;
+}
+
+.water {
+    color: blue;
+    font-size: large;
+}
+
+div p {
+    font-style: italic;
+}

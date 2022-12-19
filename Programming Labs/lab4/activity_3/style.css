@@ -1,0 +1,37 @@
+.axis-label {
+    text-anchor: middle;
+    font-size: 12px;
+    font-weight: semibold;
+}
+
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    margin: 0;
+}
+
+.bar {
+    fill: #4571C9;
+}
+
+#main {
+    margin: 20px;
+}
+
+.g-bar {
+    text-align: center;
+}
+
+.number-bar-texts {
+    font-size: x-small;
+    font-weight: bold;
+    translate: 3px;
+}
+
+.bar-texts {
+    font-size: small;
+    text-anchor: end;
+}
+
+.y-axis-label {
+    font-size: small;
+}
